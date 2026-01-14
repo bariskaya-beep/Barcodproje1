@@ -1,0 +1,5 @@
+{
+  "name": "Hebridean Sky ID Card Automator",
+  "description": "An automated tool to generate professional Code 39 barcode ID cards for ship passengers and crew from Excel data.",
+  "requestFramePermissions": []
+}
